@@ -147,10 +147,6 @@ These instructions will get you a copy of the project up and running on your loc
     pip install -r requirements.txt
     ```
 
-https://github.com/user-attachments/assets/64eafddc-7fca-4e70-be16-d35f2042d98a
-
-
-
 4.  **Download NLTK data:**
     In your Python environment, run:
     ```python
@@ -171,4 +167,8 @@ https://github.com/user-attachments/assets/64eafddc-7fca-4e70-be16-d35f2042d98a
     ```
     The application will run on `http://127.0.0.1:5050`.
 
-## Project Structure
+
+
+
+
+https://github.com/user-attachments/assets/64eafddc-7fca-4e70-be16-d35f2042d98a
