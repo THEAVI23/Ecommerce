@@ -167,8 +167,3 @@ These instructions will get you a copy of the project up and running on your loc
     ```
     The application will run on `http://127.0.0.1:5050`.
 
-
-
-
-
-https://github.com/user-attachments/assets/64eafddc-7fca-4e70-be16-d35f2042d98a
